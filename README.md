@@ -1,3 +1,5 @@
+#This is a sample code for article on  https://open.substack.com/pub/novrian/p/creating-your-first-angular-web-app?r=25unco&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
 # MyFirstAngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
